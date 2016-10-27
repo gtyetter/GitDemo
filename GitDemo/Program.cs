@@ -9,6 +9,7 @@ namespace GitDemo
     class Program
     {
         string demo = "you did it!";
+        string demo2 = "fendwick added this line";
         static void Main(string[] args)
         {
         }
