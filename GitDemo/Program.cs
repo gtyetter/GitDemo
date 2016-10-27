@@ -8,6 +8,7 @@ namespace GitDemo
 {
     class Program
     {
+        string demo = "you did it!";
         static void Main(string[] args)
         {
         }
